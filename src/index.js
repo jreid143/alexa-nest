@@ -21,8 +21,8 @@
 /**
  * App ID for the skill
  */
-var APP_ID = ""; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
-var NEST_TOKEN = ""; //replace with auth token from Nest
+var APP_ID = "amzn1.echo-sdk-ams.app.9e5a76d8-0ff3-4fac-9f4c-56e7165413ce"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var NEST_TOKEN = "c.5uoz6DpmUR9fkpp5M9woUoIs2RasYHJmcf3kgATlxkHMWkOA2L8KcGvJJAtw0aS1zy1AO2XgYJpTxNGZ82cU9gXFvSBB2NHGmo2fBeq9z85bV3ODoGWE3xQqGkqi7mvwwCLX7epIPhXJVtKA"; //replace with auth token from Nest
 
 /**
  * The AlexaSkill prototype and helper functions
